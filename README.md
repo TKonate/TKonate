@@ -1,22 +1,82 @@
+<div align="center">
+
 # T. Konate
 
-Computer science and electronics student building self-hosted systems, AI agents and security tools — with a focus on real-world constraints, privacy and clear documentation.
+**Computer Science & Electronics Student**
+
+I build and document self-hosted systems, AI agents and security tooling.
+
+[![GitHub](https://img.shields.io/badge/GitHub-TKonate-181717?style=flat&logo=github)](https://github.com/TKonate)
+[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/TKonate?tab=repositories&q=&language=python)
+[![Focus](https://img.shields.io/badge/Focus-Self--hosted%20AI%20%26%20Security-2ea44f?style=flat)](https://github.com/TKonate)
+
+</div>
 
 ## What I build
 
-- **Self-hosted infrastructure** — Linux, Docker, private networks and persistent services
-- **AI systems** — agents, multi-profile orchestration, LLM routing and local models
-- **Security tooling** — automation, hardening and technical research
-- **Hardware & embedded systems** — homelabs, electronics and physical experimentation
+<table>
+<tr>
+<td width="50%">
 
-## Selected projects
+### 🖥️ Self-hosted infrastructure
 
-- **Portfolio** — projects, labs and publications: [TKonate/portfolio](https://github.com/TKonate/portfolio)
-- **Portfolio Manager** — a Python CLI for maintaining a structured Markdown portfolio: [TKonate/portfolio-manager](https://github.com/TKonate/portfolio-manager)
-- **Hermes ecosystem** — personal agent architecture, documentation and experiments: currently in preparation
+Linux, Docker, private networking and persistent services.
+
+</td>
+<td width="50%">
+
+### 🤖 AI systems
+
+Agents, orchestration, LLM routing and local inference.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 Security tooling
+
+Automation, hardening and technical security research.
+
+</td>
+<td width="50%">
+
+### ⚡ Electronics & embedded
+
+Homelabs, microcontrollers and physical experimentation.
+
+</td>
+</tr>
+</table>
+
+## Featured project
+
+### [Portfolio Manager](https://github.com/TKonate/portfolio-manager)
+
+A lightweight Python CLI for generating and organizing structured Markdown portfolio entries.
+
+- Python standard library
+- Configurable portfolio structure
+- YAML front matter generation
+- Input and configuration validation
+- Automated tests and GitHub Actions CI
+
+## Currently building
+
+- **Hermes ecosystem** — a documented multi-profile agent infrastructure
+- **Self-hosted AI infrastructure** — local models, automation and private networking
+- **Security projects** — developing and documenting authorized security experiments
 
 ## How I work
 
-I prefer small, understandable systems, documented decisions and measured results. Each project also explains its limitations, trade-offs and remaining learning goals.
+I prefer small, understandable systems, documented decisions and measured results. I treat constraints, failures and trade-offs as part of the engineering work—not as details to hide.
 
-→ [View my portfolio](https://github.com/TKonate/portfolio)
+## Outside the code
+
+I am especially interested in the intersection of software, infrastructure, cybersecurity, electronics and human systems.
+
+<div align="center">
+
+**More projects will be published as they become reproducible and well documented.**
+
+</div>
