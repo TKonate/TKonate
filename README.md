@@ -10,6 +10,8 @@ I build and document self-hosted systems, AI agents and security tooling.
 [![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/TKonate?tab=repositories&q=&language=python)
 [![Focus](https://img.shields.io/badge/Focus-Self--hosted%20AI%20%26%20Security-2ea44f?style=flat)](https://github.com/TKonate)
 
+[Projects](#featured-projects) · [Focus](#what-i-build) · [Currently building](#currently-building) · [How I work](#how-i-work)
+
 </div>
 
 ## What I build
@@ -51,42 +53,48 @@ Homelabs, microcontrollers and physical experimentation.
 
 ## Featured projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### [Portfolio Manager](https://github.com/TKonate/portfolio-manager)
 
-A lightweight Python CLI for generating and organizing structured Markdown portfolio entries.
+Python CLI for generating structured Markdown portfolio entries.
 
-- Python standard library
-- Configurable portfolio structure
-- YAML front matter generation
-- Input and configuration validation
-- Automated tests and GitHub Actions CI
+<sub>Python · CLI · Tests · Packaging · CI</sub>
+
+</td>
+<td width="50%" valign="top">
 
 ### [Ollama Inference Benchmarks](https://github.com/TKonate/ollama-inference-benchmarks)
 
-Small experiments comparing local LLM latency, memory observations and output quality on constrained hardware.
+Experiments comparing local LLM latency and quality on constrained hardware.
 
-- Reproducible Ollama benchmark script
-- Historical measurements clearly separated from live runs
-- Methodology and limitations documented
-- Python standard library only
+<sub>Ollama · Local AI · Benchmarks · Python</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [Hermes Infrastructure](https://github.com/TKonate/hermes-infrastructure)
 
-A sanitized architecture study for a privacy-conscious, self-hosted AI agent infrastructure.
+Sanitized architecture study for a self-hosted AI agent infrastructure.
 
-- Multi-profile agent orchestration
-- Docker, private networking and persistent services
-- Hybrid local/cloud AI strategy
-- Resource constraints and security boundaries documented
+<sub>Self-hosted · Docker · Networking · AI agents</sub>
+
+</td>
+<td width="50%" valign="top">
 
 ### [Palantir Research Workflow](https://github.com/TKonate/palantir-research-workflow)
 
-A structured web-research workflow case study for multi-agent systems.
+Case study of a structured web-research workflow for multi-agent systems.
 
-- Scope-first research process
-- Source collection and claim verification
-- Structured Markdown evidence packages
-- Human review and uncertainty preservation
+<sub>Research · OSINT · Automation · Documentation</sub>
+
+</td>
+</tr>
+</table>
 
 ## Currently building
 
