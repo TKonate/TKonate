@@ -70,11 +70,20 @@ Small experiments comparing local LLM latency, memory observations and output qu
 - Methodology and limitations documented
 - Python standard library only
 
+### [Hermes Infrastructure](https://github.com/TKonate/hermes-infrastructure)
+
+A sanitized architecture study for a privacy-conscious, self-hosted AI agent infrastructure.
+
+- Multi-profile agent orchestration
+- Docker, private networking and persistent services
+- Hybrid local/cloud AI strategy
+- Resource constraints and security boundaries documented
+
 ## Currently building
 
-- **Hermes ecosystem** — a documented multi-profile agent infrastructure
-- **Self-hosted AI infrastructure** — local models, automation and private networking
-- **Security projects** — developing and documenting authorized security experiments
+- Extending the Hermes infrastructure documentation
+- Exploring LLM routing and local inference evaluation
+- Developing authorized security experiments
 
 ## How I work
 
