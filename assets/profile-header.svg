@@ -1,0 +1,42 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">T. Konate — Self-hosted AI, security and electronics</title>
+  <desc id="desc">A dark technical banner connecting infrastructure, AI, security and embedded systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#071A24"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="80" x2="1080" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <path d="M0 244C190 205 250 278 430 235C610 192 705 214 850 241C1000 268 1090 214 1200 225" stroke="#1F2937" stroke-width="2"/>
+  <path d="M96 205L257 108L438 190L620 82L790 180L973 106L1101 172" stroke="url(#line)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+  <g filter="url(#glow)">
+    <circle cx="96" cy="205" r="6" fill="#60A5FA"/>
+    <circle cx="257" cy="108" r="6" fill="#818CF8"/>
+    <circle cx="438" cy="190" r="6" fill="#A78BFA"/>
+    <circle cx="620" cy="82" r="7" fill="#C084FC"/>
+    <circle cx="790" cy="180" r="6" fill="#34D399"/>
+    <circle cx="973" cy="106" r="6" fill="#2DD4BF"/>
+    <circle cx="1101" cy="172" r="6" fill="#60A5FA"/>
+  </g>
+  <g fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1">
+    <text x="70" y="232">INFRASTRUCTURE</text>
+    <text x="224" y="85">AI SYSTEMS</text>
+    <text x="405" y="217">SECURITY</text>
+    <text x="574" y="57">ORCHESTRATION</text>
+    <text x="758" y="207">LOCAL MODELS</text>
+    <text x="936" y="83">EMBEDDED</text>
+  </g>
+  <text x="72" y="72" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="34" font-weight="700">T. Konate</text>
+  <text x="74" y="102" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">Building understandable systems under real-world constraints.</text>
+</svg>

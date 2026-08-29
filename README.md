@@ -1,6 +1,6 @@
 <div align="center">
 
-# T. Konate
+<img src="./assets/profile-header.svg" alt="T. Konate — Self-hosted AI, security and electronics" width="100%" />
 
 **Computer Science & Electronics Student**
 
