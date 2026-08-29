@@ -49,7 +49,7 @@ Homelabs, microcontrollers and physical experimentation.
 </tr>
 </table>
 
-## Featured project
+## Featured projects
 
 ### [Portfolio Manager](https://github.com/TKonate/portfolio-manager)
 
@@ -60,6 +60,15 @@ A lightweight Python CLI for generating and organizing structured Markdown portf
 - YAML front matter generation
 - Input and configuration validation
 - Automated tests and GitHub Actions CI
+
+### [Ollama Inference Benchmarks](https://github.com/TKonate/ollama-inference-benchmarks)
+
+Small experiments comparing local LLM latency, memory observations and output quality on constrained hardware.
+
+- Reproducible Ollama benchmark script
+- Historical measurements clearly separated from live runs
+- Methodology and limitations documented
+- Python standard library only
 
 ## Currently building
 
