@@ -19,23 +19,23 @@
   </defs>
   <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
   <path d="M0 244C190 205 250 278 430 235C610 192 705 214 850 241C1000 268 1090 214 1200 225" stroke="#1F2937" stroke-width="2"/>
-  <path d="M96 205L257 108L438 190L620 82L790 180L973 106L1101 172" stroke="url(#line)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+  <path d="M96 225L257 128L438 210L620 102L790 200L973 126L1101 192" stroke="url(#line)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
   <g filter="url(#glow)">
-    <circle cx="96" cy="205" r="6" fill="#60A5FA"/>
-    <circle cx="257" cy="108" r="6" fill="#818CF8"/>
-    <circle cx="438" cy="190" r="6" fill="#A78BFA"/>
-    <circle cx="620" cy="82" r="7" fill="#C084FC"/>
-    <circle cx="790" cy="180" r="6" fill="#34D399"/>
-    <circle cx="973" cy="106" r="6" fill="#2DD4BF"/>
-    <circle cx="1101" cy="172" r="6" fill="#60A5FA"/>
+    <circle cx="96" cy="225" r="6" fill="#60A5FA"/>
+    <circle cx="257" cy="128" r="6" fill="#818CF8"/>
+    <circle cx="438" cy="210" r="6" fill="#A78BFA"/>
+    <circle cx="620" cy="102" r="7" fill="#C084FC"/>
+    <circle cx="790" cy="200" r="6" fill="#34D399"/>
+    <circle cx="973" cy="126" r="6" fill="#2DD4BF"/>
+    <circle cx="1101" cy="192" r="6" fill="#60A5FA"/>
   </g>
   <g fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1">
-    <text x="70" y="232">INFRASTRUCTURE</text>
-    <text x="224" y="85">AI SYSTEMS</text>
-    <text x="405" y="217">SECURITY</text>
-    <text x="574" y="57">ORCHESTRATION</text>
-    <text x="758" y="207">LOCAL MODELS</text>
-    <text x="936" y="83">EMBEDDED</text>
+    <text x="70" y="252">INFRASTRUCTURE</text>
+    <text x="224" y="105">AI SYSTEMS</text>
+    <text x="405" y="237">SECURITY</text>
+    <text x="574" y="77">ORCHESTRATION</text>
+    <text x="758" y="227">LOCAL MODELS</text>
+    <text x="936" y="103">EMBEDDED</text>
   </g>
     <text x="72" y="43" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="700">T. Konate</text>
   <text x="74" y="68" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">Building understandable systems under real-world constraints.</text>
