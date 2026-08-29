@@ -79,6 +79,15 @@ A sanitized architecture study for a privacy-conscious, self-hosted AI agent inf
 - Hybrid local/cloud AI strategy
 - Resource constraints and security boundaries documented
 
+### [Palantir Research Workflow](https://github.com/TKonate/palantir-research-workflow)
+
+A structured web-research workflow case study for multi-agent systems.
+
+- Scope-first research process
+- Source collection and claim verification
+- Structured Markdown evidence packages
+- Human review and uncertainty preservation
+
 ## Currently building
 
 - Extending the Hermes infrastructure documentation
