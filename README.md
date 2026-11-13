@@ -57,6 +57,15 @@ Homelabs, microcontrollers and physical experimentation.
 <tr>
 <td width="50%" valign="top">
 
+### [LLM Trading Bench](https://github.com/TKonate/llm-trading-bench)
+
+Multi-agent paper-trading benchmark: every model gets the same tools, the same data and the same rules. Results are scored against the market and against random portfolios.
+
+<sub>Python · AI agents · Tool calling · Benchmarks · 106 tests</sub>
+
+</td>
+<td width="50%" valign="top">
+
 ### [Portfolio Manager](https://github.com/TKonate/portfolio-manager)
 
 Python CLI for generating structured Markdown portfolio entries.
@@ -64,6 +73,8 @@ Python CLI for generating structured Markdown portfolio entries.
 <sub>Python · CLI · Tests · Packaging · CI</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Ollama Inference Benchmarks](https://github.com/TKonate/ollama-inference-benchmarks)
@@ -73,8 +84,6 @@ Experiments comparing local LLM latency and quality on constrained hardware.
 <sub>Ollama · Local AI · Benchmarks · Python</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Hermes Infrastructure](https://github.com/TKonate/hermes-infrastructure)
@@ -84,6 +93,8 @@ Sanitized architecture study for a self-hosted AI agent infrastructure.
 <sub>Self-hosted · Docker · Networking · AI agents</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Palantir Research Workflow](https://github.com/TKonate/palantir-research-workflow)
@@ -93,11 +104,21 @@ Case study of a structured web-research workflow for multi-agent systems.
 <sub>Research · OSINT · Automation · Documentation</sub>
 
 </td>
+<td width="50%" valign="top">
+
+### [More projects →](https://github.com/TKonate?tab=repositories)
+
+Work in progress stays private until it builds and is reproducible.
+
+<sub>Repositories</sub>
+
+</td>
 </tr>
 </table>
 
 ## Currently building
 
+- Running a multi-agent paper-trading benchmark with honest controls
 - Extending the Hermes infrastructure documentation
 - Exploring LLM routing and local inference evaluation
 - Developing authorized security experiments
