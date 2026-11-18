@@ -9,6 +9,7 @@ I build and document self-hosted systems, AI agents and security tooling.
 [![GitHub](https://img.shields.io/badge/GitHub-TKonate-181717?style=flat&logo=github)](https://github.com/TKonate)
 [![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/TKonate?tab=repositories&q=&language=python)
 [![Focus](https://img.shields.io/badge/Focus-Self--hosted%20AI%20%26%20Security-2ea44f?style=flat)](https://github.com/TKonate)
+[![Site](https://img.shields.io/badge/Site-t--konate.dev-4f46e5?style=flat)](https://t-konate.dev)
 
 [Projects](#featured-projects) · [Focus](#what-i-build) · [Currently building](#currently-building) · [How I work](#how-i-work)
 
